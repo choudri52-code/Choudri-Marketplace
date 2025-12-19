@@ -1,6 +1,6 @@
 # Welcome to Choudri Marketplace 🎨
 
-![Choudri Marketplace Banner]https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 ### 🚀 High-Quality Digital Assets for Developers & Creators
 Professional-grade **AI Illustrations**, **Scalable Vectors**, and **High-Resolution Photography** curated for your next project.
 
